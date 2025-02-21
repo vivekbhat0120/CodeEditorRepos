@@ -6,44 +6,22 @@ https://vivekbhat0120.github.io/CodeEditorRepos/
 
 CLICK HERE TO VISIT THE PAGE 👆
 
-Description:
-A simple, real-time HTML, CSS, and JavaScript code editor built with vanilla JavaScript, HTML, and CSS. This project allows users to write and test their web code in a live preview panel. It features a sleek, dark-themed UI with three separate input areas for HTML, CSS, and JavaScript, updating the output dynamically as the user types.
 
+A **simple online code editor** built using **HTML, CSS, and JavaScript**. This project allows users to write and execute HTML, CSS, and JavaScript in real-time with an interactive output display.
 
+## 🚀 Features
+- **Live preview** – Automatically updates output as you type.
+- **Separate sections** for HTML, CSS, and JavaScript input.
+- **Modern UI** with a dark theme for better readability.
+- **Supports inline JavaScript execution**.
 
-Features:
+## 🛠 Technologies Used
+- **HTML** – Structure of the code editor.
+- **CSS** – Styling and layout.
+- **JavaScript** – Handling live preview functionality.
 
-
-Live preview of HTML, CSS, and JavaScript code.
-
-Responsive and modern dark-themed UI.
-
-Uses iframe to render the output in real time.
-
-Font Awesome icons for a visually appealing interface.
-
-Minimal and lightweight, built with plain JavaScript.
-
-
-
-How to Use:
-
-
-Type your HTML, CSS, and JavaScript code into the respective text areas.
-
-The output panel updates automatically as you type.
-
-Modify and experiment with web code instantly.
-
-
-
-Technologies Used:
-
-
-HTML
-
-CSS
-
-JavaScript
-
-Feel free to fork, modify, and contribute! 🚀
+## 🎮 How It Works
+1. Users enter **HTML, CSS, and JavaScript** in the respective text areas.
+2. The **live preview** updates automatically as users type.
+3. The **JavaScript code** runs inside an iframe.
+4. The output displays **instantly** in the preview window.
